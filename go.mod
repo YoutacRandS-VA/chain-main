@@ -8,7 +8,7 @@ require (
 	github.com/armon/go-metrics v0.4.1
 	github.com/cosmos/cosmos-proto v1.0.0-beta.1
 	github.com/cosmos/cosmos-sdk v0.46.15
-	github.com/cosmos/ibc-go/v5 v5.2.1
+	github.com/cosmos/ibc-go/v5 v5.4.0
 	github.com/crypto-org-chain/cronos/store v0.0.5-0.20230904032434-c575f4797ca4
 	// release/v1.0.x
 	github.com/crypto-org-chain/cronos/versiondb v0.0.0-20230904032434-c575f4797ca4
